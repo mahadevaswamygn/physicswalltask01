@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi rohsan how r u
+=======
+hddsdxkjnsnj
+>>>>>>> 8bce230324d27aec0fad42fe0e43db2811da1bdd
+learnigng git
